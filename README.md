@@ -8,7 +8,7 @@ By pressing F2 (or a custom hotkey) you can paste images directly to the [elemen
 
 If your AHK is v2, a message box will pop up asking you if you want to install v1 automatically.
 
-**Script Cons**: images are stored in a folder called "userImages" within the elements folder of the collection. If you delete the image from the element, or if you delete the element itself, the image ill not be deleted from the folder, so you will have to delete it manually.
+**Script Cons**: images are stored in a folder called "userImages" within the elements folder of the collection. If you delete the image from the element, or if you delete the element itself, the image will not be deleted from the folder, so you will have to delete it manually.
 
 Tested in Windows 11, Supermemo 19, AHK v1.1.37.02
 
